@@ -1,4 +1,4 @@
-# paper
+# Paper
 Academic papers
 
 Author: Jian wang
